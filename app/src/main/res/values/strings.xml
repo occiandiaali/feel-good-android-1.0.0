@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feel Good</string>
+    <string name="instructions">Tap the button to feel good. Use the bars for settings</string>
+    <string name="pitch_label">Pitch</string>
+    <string name="pace_label">Pace</string>
+    <string name="vol_label">Volume</string>
+</resources>
