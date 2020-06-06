@@ -50,7 +50,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="36dp"
         android:max="100"
-
+        android:progress="5"
         android:progressBackgroundTint="@android:color/black"
         android:progressTint="@color/colorPrimaryDark"
         android:rotation="270"
@@ -64,7 +64,7 @@
         android:layout_marginTop="64dp"
         android:layout_marginEnd="112dp"
         android:max="100"
-
+        android:progress="5"
         android:progressBackgroundTint="@android:color/black"
         android:progressTint="@color/colorPrimaryDark"
         android:rotation="270"
@@ -80,7 +80,7 @@
         android:layout_marginTop="36dp"
         android:layout_marginEnd="28dp"
         android:max="100"
-
+        android:progress="5"
         android:progressBackgroundTint="@android:color/black"
         android:progressTint="@color/colorPrimaryDark"
         android:rotation="270"
