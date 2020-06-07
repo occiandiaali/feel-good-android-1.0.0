@@ -1,0 +1,6 @@
+{
+  "A stitch in time saves nine",
+  "I love you",
+  "You are beautiful",
+  "Your only limitation is your imagination"
+}
